@@ -1,2 +1,3 @@
 # Titulo
 esto es ...
+Ultimo hecho: conexion bd con el php de index inicio
